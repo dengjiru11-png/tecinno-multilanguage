@@ -42,7 +42,7 @@ export default async function ProductDetailPage({ params }: Props) {
   const getTagLabel = (tag: string): string => {
     const labelMap = tagLabels[tag]
     if (!labelMap) return tag
-    return (labelMap as any)[loc as string] || labelMap.zh || tag
+    return (labelMap as Record<string, string>)[loc] || labelMap.en || tag
   }
 
   // 优先从 Sanity 获取产品数据；若失败则降级使用本地数据

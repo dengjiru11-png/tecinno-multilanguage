@@ -1,0 +1,197 @@
+{
+  "_comment": "========================================================",
+  "_comment2": "文件：messages/en.json",
+  "_comment3": "用途：英文界面所有文字内容",
+  "_comment4": "维护：直接修改引号内的文字即可，注意保留引号和逗号格式",
+  "_comment5": "========================================================",
+
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "sample": "Request Sample",
+    "insights": "Insights",
+    "contact": "Contact",
+    "tagline": "Premium Cosmetic Ingredients"
+  },
+
+  "hero": {
+    "badge": "Trusted Distributor",
+    "title": "Premium Cosmetic Ingredients",
+    "subtitle": "from China's Botanical Innovation",
+    "description": "TecInno leverages China's premium cosmetic ingredient resources, connecting global brand owners, formulators and OEMs with scientifically proven, sustainably sourced cosmetic actives. From selection to launch — we are your R&D partner.",
+    "cta_products": "Browse Products",
+    "cta_sample": "Request a Sample"
+  },
+
+  "stats": {
+    "products": "100+ Ingredients",
+    "products_label": "in Portfolio",
+    "countries": "Countries",
+    "countries_label": "Served Globally",
+    "response": "4 hrs",
+    "response_label": "Response Time",
+    "certified": "ECOCERT",
+    "certified_label": "Certified Lines"
+  },
+
+  "featured": {
+    "title": "Featured Ingredients",
+    "subtitle": "From China's rich biodiversity — Scientifically validated actives",
+    "view_all": "View All Products",
+    "view_details": "View Details",
+    "request_sample": "Request Sample"
+  },
+
+  "why": {
+    "title": "Why Choose TecInno?",
+    "subtitle": "We are more than a distributor — we are an extension of your R&D team",
+    "items": [
+      {
+        "title": "Quality Traceability",
+        "desc": "Original COA, MSDS, and third-party test reports available for every batch upon request."
+      },
+      {
+        "title": "Global Supply Chain",
+        "desc": "Partnering with multiple top manufacturers in China."
+      },
+      {
+        "title": "Technical Support",
+        "desc": "Expert consulting, formulation evaluation, and pilot-scale support from our team."
+      },
+      {
+        "title": "Flexible Inventory",
+        "desc": "Safety stock on core items. Samples from 10g. Bulk orders shipped within 48 hours."
+      },
+      {
+        "title": "Natural & Efficacy-Driven",
+        "desc": "Focus on plant extracts, green preservatives, and high-potency actives aligned with clean beauty trends."
+      },
+      {
+        "title": "Personalized Service",
+        "desc": "Dedicated 1-on-1 account manager. 4-hour response time from selection to market launch."
+      }
+    ]
+  },
+
+  "process": {
+    "title": "How to Get Your Sample",
+    "steps": [
+      { "step": "01", "title": "Browse Products", "desc": "Explore our ingredient portfolio and find the actives suited for your formulation needs." },
+      { "step": "02", "title": "Submit Request", "desc": "Fill in the sample request form with your company details and target application." },
+      { "step": "03", "title": "Receive & Test", "desc": "We process your request within 24 hours and dispatch samples with technical data." }
+    ]
+  },
+
+  "testimonials": {
+    "title": "Trusted by Formulators Worldwide",
+    "items": [
+      {
+        "quote": "TecInno's CiBeauty™ showed remarkable brightening results in our clinical study. The technical support throughout formulation was exceptional.",
+        "author": "Dr. Sarah Chen",
+        "title": "Head of R&D, Cosmetics Brand",
+        "country": "🇺🇸 USA"
+      },
+      {
+        "quote": "The FairyVeil™ ingredient perfectly matched our sensitive skin line requirements. Quick delivery and professional documentation.",
+        "author": "Tanaka Yuki",
+        "title": "Senior Formulator",
+        "country": "🇯🇵 Japan"
+      },
+      {
+        "quote": "Highly reliable partner for sourcing unique Chinese botanicals. Their 4-hour response time is genuinely impressive.",
+        "author": "Marie Dubois",
+        "title": "Procurement Manager",
+        "country": "🇫🇷 France"
+      }
+    ]
+  },
+
+  "products": {
+    "title": "Our Ingredient Portfolio",
+    "subtitle": "Scientifically validated actives for modern cosmetic formulations",
+    "search_placeholder": "Search by name, INCI or function...",
+    "filter_all": "All",
+    "no_results": "No ingredients found. Try a different search term.",
+    "view_details": "Details",
+    "request_sample": "Sample",
+    "inci": "INCI",
+    "ph": "pH Range",
+    "moq": "MOQ"
+  },
+
+  "product_detail": {
+    "overview": "Overview",
+    "efficacy": "Efficacy & Benefits",
+    "params": "Technical Parameters",
+    "dosage": "Formulation Guide",
+    "compliance": "Compliance & Certifications",
+    "related": "Related Ingredients",
+    "request_sample": "Request Sample",
+    "back": "Back to Products",
+    "appearance": "Appearance"
+  },
+
+  "sample": {
+    "title": "Request a Sample",
+    "subtitle": "Fill in the form below and we will process your sample request within 24 hours",
+    "company": "Company Name *",
+    "contact": "Contact Name *",
+    "email": "Email Address *",
+    "country": "Country / Region *",
+    "product": "Product of Interest *",
+    "quantity": "Sample Quantity",
+    "purpose": "Intended Use",
+    "purpose_options": ["Formulation Testing", "Client Presentation", "Research & Evaluation", "Other"],
+    "message": "Additional Notes",
+    "submit": "Submit Request",
+    "submitting": "Sending...",
+    "success_title": "Request Received!",
+    "success_msg": "Thank you. We will review your request and reply to your email within 24 hours.",
+    "error_msg": "Something went wrong. Please email us directly at fenglei.net@gmail.com"
+  },
+
+  "about": {
+    "title": "About TecInno",
+    "subtitle": "Bridging cutting-edge technology with global beauty innovation",
+    "vision_label": "Our Vision",
+    "vision": "Bridging cutting-edge technology with global beauty innovation.",
+    "about_label": "Who We Are",
+    "about_text": "TecInno is a premier distributor and technical service provider specializing in high-quality global cosmetic ingredients. We discover innovative materials worldwide with scientifically proven efficacy and sustainable trends, offering comprehensive one-stop solutions for brand owners, formulators, and OEMs.",
+    "role_label": "Our Role",
+    "role_text": "We are more than a supplier — we act as an extension of your R&D team. Through rigorous supplier management and professional technical evaluation, we connect China's premier botanical innovation centers with the global beauty market, ensuring every ingredient offers superior efficacy, strict compliance, and reliable supply.",
+    "cta_title": "Ready to collaborate?",
+    "cta_subtitle": "Connect with our team to explore ingredient solutions for your brand",
+    "cta_sample": "Request a Sample",
+    "cta_contact": "Get in Touch"
+  },
+
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Our team responds within 4 business hours",
+    "email_label": "Email",
+    "email": "fenglei.net@gmail.com",
+    "hours_label": "Business Hours",
+    "hours": "Mon – Fri, 9:00 – 18:00 CST",
+    "response_label": "Response Time",
+    "response": "Within 4 hours",
+    "form_title": "Send a Message",
+    "name": "Your Name *",
+    "company": "Company",
+    "email_field": "Email *",
+    "message": "Message *",
+    "submit": "Send Message",
+    "submitting": "Sending...",
+    "success": "Message sent! We'll be in touch shortly.",
+    "error": "Failed to send. Please email us directly."
+  },
+
+  "footer": {
+    "tagline": "Premium Cosmetic Ingredients · Global Distribution",
+    "company_full": "Hainan Free Trade Port TecInno Beauty and Health Manufacturing and Trading Co., Ltd.",
+    "nav_title": "Navigation",
+    "contact_title": "Contact",
+    "copyright": "© 2025 TecInno (Hainan Free Trade Port TecInno Beauty and Health Manufacturing and Trading Co., Ltd.). All rights reserved.",
+    "email": "fenglei.net@gmail.com"
+  }
+}

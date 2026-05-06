@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+dist/
+*.log
+*.zip
+*.bat
+.env
+.DS_Store

@@ -1,0 +1,160 @@
+{
+  "_comment": "文件：messages/zh-Hant.json — 中文（繁体）界面文字，直接修改引号内文字即可",
+
+  "nav": {
+    "home": "首頁",
+    "products": "產品目錄",
+    "about": "關於我們",
+    "sample": "索取樣品",
+    "insights": "知識庫",
+    "contact": "聯絡我們",
+    "tagline": "優質化妝品原料"
+  },
+
+  "hero": {
+    "badge": "專業代理經銷商",
+    "title": "高品質化妝品原料",
+    "subtitle": "源自中國植物科技創新",
+    "description": "太新美康（TecInno）擁有中國優質化妝品原料資源，連結全球品牌商、配方師與代工廠，提供具有科學實證效果、符合可持續趨勢的化妝品活性原料。從選料到上市，我們是您研發團隊的延伸夥伴。",
+    "cta_products": "瀏覽產品",
+    "cta_sample": "索取樣品"
+  },
+
+  "stats": {
+    "products": "上百種原料",
+    "products_label": "在代理名錄中",
+    "countries": "多個國家",
+    "countries_label": "全球服務覆蓋",
+    "response": "4小時",
+    "response_label": "回覆時效",
+    "certified": "ECOCERT",
+    "certified_label": "認證品項"
+  },
+
+  "featured": {
+    "title": "精選明星原料",
+    "subtitle": "源自物產豐富的中國——科學驗證活性成分",
+    "view_all": "查看全部產品",
+    "view_details": "查看詳情",
+    "request_sample": "索取樣品"
+  },
+
+  "why": {
+    "title": "為什麼選擇太新美康？",
+    "subtitle": "我們不只是原料供應商，更是您從研發到量產全鏈條的專業夥伴",
+    "items": [
+      { "title": "品質溯源保障", "desc": "每批原料均可提供原廠COA、MSDS及第三方檢測報告，質量全程可追溯。" },
+      { "title": "全球供應鏈整合", "desc": "對接中國多家頂級原料生產商，保障貨源穩定。" },
+      { "title": "專業技術支持", "desc": "提供原料應用諮詢、配方適配評估及小試支持。" },
+      { "title": "彈性庫存備貨", "desc": "核心原料保持安全庫存，樣品10g起，批量貨最快48小時發出。" },
+      { "title": "天然&功效導向", "desc": "重點布局天然植物提取物、綠色防腐體系及高效活性原料，契合功效護膚趨勢。" },
+      { "title": "全程貼身服務", "desc": "專屬客戶經理1對1服務，從選料→測試→量產→上市全鏈條跟進，響應時效4小時內。" }
+    ]
+  },
+
+  "process": {
+    "title": "如何索取樣品",
+    "steps": [
+      { "step": "01", "title": "瀏覽產品", "desc": "探索我們的原料名錄，找到適合您配方需求的活性成分。" },
+      { "step": "02", "title": "提交申請", "desc": "填寫索樣表單，提供公司資訊與目標應用場景。" },
+      { "step": "03", "title": "收到樣品", "desc": "我們在24小時內處理您的申請，附技術資料一併寄出。" }
+    ]
+  },
+
+  "testimonials": {
+    "title": "全球配方師的信任之選",
+    "items": [
+      { "quote": "TecInno的CiBeauty™在我們的臨床研究中展現了卓越的提亮效果。配方過程中的技術支持也非常專業。", "author": "陳博士", "title": "研發總監", "country": "🇺🇸 美國" },
+      { "quote": "FairyVeil™完全符合我們敏感肌產品線的需求。交貨迅速，文件齊全專業。", "author": "田中雪", "title": "資深配方師", "country": "🇯🇵 日本" },
+      { "quote": "採購中國特色植物原料的高度可靠合作夥伴，4小時回覆承諾確實令人印象深刻。", "author": "Marie Dubois", "title": "採購經理", "country": "🇫🇷 法國" }
+    ]
+  },
+
+  "products": {
+    "title": "原料產品目錄",
+    "subtitle": "適用於現代化妝品配方的科學驗證活性成分",
+    "search_placeholder": "搜尋產品名稱、INCI名或功效...",
+    "filter_all": "全部",
+    "no_results": "未找到相關原料，請嘗試其他關鍵字。",
+    "view_details": "查看詳情",
+    "request_sample": "索取樣品",
+    "inci": "INCI名稱",
+    "ph": "pH範圍",
+    "moq": "最小起購量"
+  },
+
+  "product_detail": {
+    "overview": "基本資訊",
+    "efficacy": "功效與優勢",
+    "params": "技術參數",
+    "dosage": "配方建議",
+    "compliance": "合規與認證",
+    "related": "相關原料",
+    "request_sample": "索取樣品",
+    "back": "返回產品目錄",
+    "appearance": "外觀"
+  },
+
+  "sample": {
+    "title": "索取樣品",
+    "subtitle": "填寫以下表單，我們將在24小時內處理您的索樣申請",
+    "company": "公司名稱 *",
+    "contact": "聯絡人姓名 *",
+    "email": "電子郵件 *",
+    "country": "國家/地區 *",
+    "product": "感興趣的產品 *",
+    "quantity": "樣品數量",
+    "purpose": "樣品用途",
+    "purpose_options": ["配方測試", "客戶展示", "研究評估", "其他"],
+    "message": "補充說明",
+    "submit": "提交申請",
+    "submitting": "發送中...",
+    "success_title": "申請已收到！",
+    "success_msg": "感謝您的申請。我們將審核後在24小時內回覆至您的電子郵件。",
+    "error_msg": "發送失敗，請直接發送郵件至 fenglei.net@gmail.com"
+  },
+
+  "about": {
+    "title": "關於太新美康",
+    "subtitle": "連結全球前沿科技，驅動純淨美妝創新",
+    "vision_label": "核心願景",
+    "vision": "連結全球前沿科技，驅動純淨美妝創新。",
+    "about_label": "關於我們",
+    "about_text": "太新美康是一家專注於全球高品質化妝品原料的專業代理與技術服務商。我們致力於在全球範圍內發掘具有科學實證效果、符合可持續發展趨勢的獨創性原料，為化妝品品牌商、配方師及代工廠提供一站式的原料解決方案。",
+    "role_label": "我們的角色",
+    "role_text": "我們不僅是原料供應商，更是您研發團隊的延伸。通過嚴格的供應商管理體系與專業的技術評估方案，我們連結中國最優質的植物資源創新中心與全球美容市場，確保每一款原料都具備卓越功效、嚴苛合規與穩定供應。",
+    "cta_title": "準備好合作了嗎？",
+    "cta_subtitle": "聯繫我們的團隊，探索適合您品牌的原料解決方案",
+    "cta_sample": "索取樣品",
+    "cta_contact": "聯絡我們"
+  },
+
+  "contact": {
+    "title": "聯絡我們",
+    "subtitle": "我們的團隊在4個工作小時內回覆",
+    "email_label": "電子郵件",
+    "email": "fenglei.net@gmail.com",
+    "hours_label": "服務時間",
+    "hours": "週一至週五，9:00 – 18:00 CST",
+    "response_label": "回覆時效",
+    "response": "4小時內",
+    "form_title": "發送訊息",
+    "name": "您的姓名 *",
+    "company": "公司名稱",
+    "email_field": "電子郵件 *",
+    "message": "訊息內容 *",
+    "submit": "發送訊息",
+    "submitting": "發送中...",
+    "success": "訊息已發送！我們將盡快與您聯絡。",
+    "error": "發送失敗，請直接發送郵件至我們的信箱。"
+  },
+
+  "footer": {
+    "tagline": "優質化妝品原料 · 全球配送",
+    "company_full": "海南太新美康生物科技有限公司",
+    "nav_title": "快速導覽",
+    "contact_title": "聯絡方式",
+    "copyright": "© 2025 太新美康（海南太新美康生物科技有限公司）版權所有",
+    "email": "fenglei.net@gmail.com"
+  }
+}

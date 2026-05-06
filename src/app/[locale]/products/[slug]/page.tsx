@@ -12,7 +12,7 @@ import { Link } from '@/lib/navigation'
 import { getTranslations } from 'next-intl/server'
 import { ArrowLeft, FlaskConical, ChevronRight } from 'lucide-react'
 import { getProductBySlug, urlFor } from '@/sanity/queries'
-import { products as localProducts, getProductById as getLocalProductById, tagLabels, type Locale } from '@/lib/products'
+import { products as localProducts, getProductById as getLocalProductById, tagLabels, type Locale, type Product } from '@/lib/products'
 
 // 告诉 Next.js 预生成所有产品页面（静态生成，加载更快）
 export function generateStaticParams() {
@@ -105,12 +105,12 @@ export default async function ProductDetailPage({ params }: Props) {
     relatedProducts = product.relatedIds
       .map((slug: string) => getLocalProductById(slug))
       .filter(Boolean)
-      .map(p => ({
-        id: p!.id,
-        slug: p!.slug,
-        name: p!.name,
-        image: p!.image,
-        tags: p!.tags,
+      .map((p: Product | undefined) => ({
+        id: p?.id,
+        slug: p?.slug,
+        name: p?.name,
+        image: p?.image,
+        tags: p?.tags || [],
       }))
   }
 

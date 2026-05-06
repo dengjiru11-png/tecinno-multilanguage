@@ -106,12 +106,12 @@ export default async function ProductDetailPage({ params }: Props) {
       .map((slug: string) => getLocalProductById(slug))
       .filter(Boolean)
       .map((p: Product | undefined) => ({
-        id: p?.id,
-        slug: p?.slug,
-        name: p?.name,
-        image: p?.image,
-        tags: p?.tags || [],
-      }))
+  id: p?.id,
+  slug: p?.slug,
+  name: p?.name,
+  image: p?.image,
+  tags: p?.tags || [],
+}))
   }
 
   return (

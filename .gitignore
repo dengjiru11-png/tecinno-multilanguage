@@ -6,4 +6,10 @@ dist/
 *.zip
 *.bat
 .env
+.env.local
+.env.*.local
 .DS_Store
+*.tsbuildinfo
+.tmp/
+
+.vercel

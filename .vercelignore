@@ -1,0 +1,6 @@
+.env
+.env.*
+*.log
+.tmp
+{src
+*.tsbuildinfo
